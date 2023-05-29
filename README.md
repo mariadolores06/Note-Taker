@@ -11,7 +11,7 @@ run npm i
 ## Usage 
 
 Once all the necessaary packages have been installed run the server by typing "node server.js" into the command line. 
-Open http://localhost:3001 
+Open http://localhost:3002
 
 Access the App Here: 
 Preview:
